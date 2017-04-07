@@ -18,7 +18,7 @@ email: samuel@dolt.ch
 description: > # this means to ignore newlines until "baseurl:"
   A blog about embedded systems, electronics and Linux.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.dolt.ch" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  samdolt
 

@@ -49,3 +49,7 @@ $ avrdude -c xplainedmini -p m328pb -U flash:w:main.hex -C +avrdude-m328pb.conf
 ```
 
 Ne pas oublier le `+` avant le nom de fichier.
+
+## Sources
+
+- [http://savannah.nongnu.org/bugs/?48237](http://savannah.nongnu.org/bugs/?48237)
